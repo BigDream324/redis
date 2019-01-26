@@ -48,3 +48,5 @@ msvs/BuildRelease
 msvs/Documentation
 tests/tmp/
 
+/msvs/.vs/RedisServer/v16/Preview
+/.vs
